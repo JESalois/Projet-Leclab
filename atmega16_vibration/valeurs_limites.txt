@@ -1,0 +1,18 @@
+avec gauche a gauche du circuit et droite a droite du circuit
+
+
+valeur minimum
+10,25 kohm gauche-centre
+21,1 ohm centre-droite
+10,26 kohm gauche-droite
+
+valeur maximum
+10,119 kohm gauche-centre
+159,1 ohm centre droite
+10,26 kohm gauche-droite
+
+
+valeur moyenne
+10,213 kohm gauche-centre
+64 ohm centre-droite
+10,264 gauche-droite
